@@ -4,7 +4,7 @@ class Calculator {
     protected int num2;
     protected int result; // 연산 결과를 저장할 멤버 변수
 
-    // Setter 메서드 (선택적으로 생성자를 사용할 수도 있습니다)
+   
     public void setNumbers(int num1, int num2) {
         this.num1 = num1;
         this.num2 = num2;
